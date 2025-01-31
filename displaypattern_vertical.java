@@ -1,8 +1,8 @@
-class Practical7{
+class Practical_7{
 	
 	  public static void main(String args[])
 	  {
-		  Practical7 p=new Practical7();
+		  Practical_7 p=new Practical_7();
 		  p.displaypatternV(1);
 		  System.out.print("\n");
 		  p.displaypatternA(1);
